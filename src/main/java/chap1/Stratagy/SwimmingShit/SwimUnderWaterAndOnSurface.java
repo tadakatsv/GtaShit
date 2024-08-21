@@ -1,6 +1,6 @@
-package Stratagy.SwimmingShit;
+package chap1.Stratagy.SwimmingShit;
 
-import Behavior.SwimmingBehavior;
+import chap1.Behavior.SwimmingBehavior;
 
 public class SwimUnderWaterAndOnSurface implements SwimmingBehavior {
     @Override

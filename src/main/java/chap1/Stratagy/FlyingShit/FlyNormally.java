@@ -1,6 +1,6 @@
-package Stratagy.FlyingShit;
+package chap1.Stratagy.FlyingShit;
 
-import Behavior.FlyingBehavior;
+import chap1.Behavior.FlyingBehavior;
 
 public class FlyNormally implements FlyingBehavior {
     @Override

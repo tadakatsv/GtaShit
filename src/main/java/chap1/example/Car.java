@@ -1,8 +1,8 @@
-package org.example;
+package chap1.example;
 
-import Stratagy.Driving.DrivingNormally;
-import Stratagy.FlyingShit.NoFly;
-import Stratagy.SwimmingShit.OnlySinking;
+import chap1.Stratagy.Driving.DrivingNormally;
+import chap1.Stratagy.FlyingShit.NoFly;
+import chap1.Stratagy.SwimmingShit.OnlySinking;
 
 public class Car extends Vehicle{
     public Car() {

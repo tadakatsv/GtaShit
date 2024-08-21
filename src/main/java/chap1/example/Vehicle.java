@@ -1,10 +1,9 @@
-package org.example;
+package chap1.example;
 
 
-import Behavior.DrivingRoadBehavior;
-import Behavior.FlyingBehavior;
-import Behavior.SwimmingBehavior;
-
+import chap1.Behavior.DrivingRoadBehavior;
+import chap1.Behavior.FlyingBehavior;
+import chap1.Behavior.SwimmingBehavior;
 
 
 public abstract class Vehicle {

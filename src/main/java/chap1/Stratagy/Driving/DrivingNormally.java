@@ -1,6 +1,6 @@
-package Stratagy.Driving;
+package chap1.Stratagy.Driving;
 
-import Behavior.DrivingRoadBehavior;
+import chap1.Behavior.DrivingRoadBehavior;
 
 public class DrivingNormally implements DrivingRoadBehavior {
     @Override
